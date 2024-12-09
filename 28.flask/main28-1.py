@@ -1,14 +1,13 @@
-from flask import Flask, render_template
+## command prompt 에서 실행
+## 브라우저에서 http://localhost 로 접속.
+
+from flask import Flask
 
 app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "hello"
-
-@app.route('/map')
-def map():
-    return render_template("uni_map.html")
+    return "Backend Web Server!!"
 
 def main():
     app.run(debug=True,port=80)

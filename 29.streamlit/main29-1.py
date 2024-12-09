@@ -1,3 +1,4 @@
+## pip install streamlit
 import streamlit as st
 
 data_list = {5,5,6,6,7}
@@ -6,3 +7,4 @@ st.write('''
 ''')
 
 st.line_chart(data_list)
+

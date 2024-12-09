@@ -16,6 +16,8 @@ def get_exchange_rate(target1, target2):
 
     response = requests.get("https://kr.investing.com/currencies/{}-{}".format(target1, target2), headers=headers)
     content = BeautifulSoup(response.content, 'html.parser')
+    print(content)
+
     containers = content.find('span', {'data-test': 'instrument-price-last'})
     print(containers.text)
 
