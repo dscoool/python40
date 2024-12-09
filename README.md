@@ -1,4 +1,4 @@
-# python40 예제코드
+# <파이썬과 40개의 작품들> 소스코드
 
 ## install
     git clone https://github.com/dscoool/python40.git
