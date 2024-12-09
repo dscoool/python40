@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import *
 from PyQt5 import uic
 
 
-ui_path = r"34. 그림판 만들기(PYQT)\그림판.ui"
+ui_path = r"./paintshop.ui"
 form_class = uic.loadUiType(ui_path)[0] 
 
 

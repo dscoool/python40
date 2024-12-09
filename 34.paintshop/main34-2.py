@@ -5,7 +5,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 
 
-ui_path = r"34. 그림판 만들기(PYQT)\그림판.ui"
+ui_path = r"./paintshop.ui"
 form_class = uic.loadUiType(ui_path)[0] 
 
 
@@ -34,24 +34,12 @@ class WindowClass(QMainWindow, form_class) :
     def btn_clicked(self):
         btn_value = self.sender().objectName()
         print(btn_value)
-        if btn_value == 'btn_black':
-            self.brushColor = Qt.black
-        elif btn_value == 'btn_red':
-            self.brushColor = Qt.red
-        elif btn_value == 'btn_blue':
-            self.brushColor = Qt.blue
     
     def btn_clear_clicked(self):
         print("모두지움")
-        self.canvas.fill(QtGui.QColor("white"))
-        self.lb_canvas.setPixmap(self.canvas)
 
     def mouseMoveEvent(self, e):
-        painter = QtGui.QPainter(self.lb_canvas.pixmap())
-        painter.setPen(QPen(self.brushColor, 5, Qt.SolidLine, Qt.RoundCap)) 
-        painter.drawPoint(e.x(), e.y())
-        painter.end()
-        self.update()
+        print(e.x(),e.y())
 
 if __name__ == "__main__" :
     app = QApplication(sys.argv) 
