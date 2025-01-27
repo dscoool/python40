@@ -1,7 +1,7 @@
 # <파이썬과 40개의 작품들> 소스코드
 #### 교재: 장문철 저, "만들면서 배우는 파이썬과 40개의 작품들", 앤써북. (2022)
 #### 출처: answerbook.co.kr
-
+#### [Slide](https://docs.google.com/presentation/d/1TSORkj_W-_ZizkwT1ieE2d3co3_eYebPK1So6XcAFP4/edit?usp=sharing)
 ## install
     git clone https://github.com/dscoool/python40.git
 
