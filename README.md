@@ -7,7 +7,7 @@
 
 #### [기초프로그램만들기](https://docs.google.com/presentation/d/1fv0PkGKrQt7u2UvK0tijDB8wOOSm6ys_S5QN-14CRS8/edit?usp=sharing)
 
-
+#### [자동화프로그램만들기](https://docs.google.com/presentation/d/1trqfaAdd6b59V7lx00jxnUaciS1jV782aS_ofgxAudY/edit?usp=sharing)
 
 
 ## install
