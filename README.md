@@ -9,6 +9,7 @@
 
 #### [자동화프로그램만들기](https://docs.google.com/presentation/d/1trqfaAdd6b59V7lx00jxnUaciS1jV782aS_ofgxAudY/edit?usp=sharing)
 
+#### [Chapter 07](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
 
 ## install
     git clone https://github.com/dscoool/python40.git
