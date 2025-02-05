@@ -21,7 +21,21 @@
     16. 이메일로 특정 키워드가 오면 스마트폰으로 알림보내기
     17. 텔레그램으로 스마트폰에 메시지보내기
     18. 스마트폰자동화
-#### [Chapter 07](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
+#### [Chapter 06. 크롤링, 이미지처리, 데이터분석 시각화](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
+    19. 구글 이미지 크롤링 (199p~208p)
+    20. 실시간 검색어 모아보기 (209p~216p)
+    21. 핫딜 알리미 (217p~224p)
+    22. 이미지에서 글자 추출하기 (225p~229p)
+    23. 사진에 얼굴만 찾아 모자이크처리 (OpenCV)
+    24. 사진을 그림으로 변환하기(OpenCV) (234p~236p)
+    25. 가상화폐 데이터 획득하여 데이터베이스 저장 (237p~245p) 
+    26. 로또번호 시각화하기 (246p~251p)
+    27. 전국의 대학교 위치 시각화하기  (252p~264p)
+
+
+
+
+#### [Chapter 07. 웹 페이지 & GUI프로그램](https://docs.google.com/presentation/d/1fNzMSAvdLI9byzxIDWYAhfQKO165fYrdnG-PFSxk56g/edit?usp=sharing)
     28.플라스크 웹서버 만들기(265p~268p)
     29.쉬운 웹앱만들기(269p~273p)
     30.가상화폐 금액표시 GUI 프로그램 만들기	(274p~279p)
@@ -29,6 +43,14 @@
     32.메모장 만들기 (283p~286p)
     33.계산기 만들기(PYQT)(287p~297p)
     34.그림판 만들기(PYQT)(298p~306p)
+#### [Chapter 08. 게임 및 인공지능 프로그램](https://docs.google.com/presentation/d/1u5wu1XVbWX4eSEASnHhDY4H7JdzUvButyG_TnHAFOYw/edit?usp=sharing)
+    35. 점프 게임 만들기 (307p~313p)
+    37. 인공지능 사과와 오렌지 구분하기 (323p~332p)
+    38. 음성인식 비서 만들기 (333p~336p)
+    39. 삼성전자의 주식 예측하기 (337p~342p)
+    40. 사진에서 사람을 인식하여 분류하기	(343p~348p)
+
+
 
 ## install
     git clone https://github.com/dscoool/python40.git
