@@ -3,7 +3,14 @@
 
 #### [파이썬데이터분석실습](https://docs.google.com/presentation/d/1TSORkj_W-_ZizkwT1ieE2d3co3_eYebPK1So6XcAFP4/edit?usp=sharing)
 
-#### [파이썬의 기본 문법 익히기](https://docs.google.com/presentation/d/117t8JXWsIoRm4iqvj94O5B2R7YaGItfWA_n2S3YSF1M/edit?usp=sharing)## install
+#### [파이썬의 기본 문법 익히기](https://docs.google.com/presentation/d/117t8JXWsIoRm4iqvj94O5B2R7YaGItfWA_n2S3YSF1M/edit?usp=sharing)
+
+#### [기초프로그램만들기](https://docs.google.com/presentation/d/1fv0PkGKrQt7u2UvK0tijDB8wOOSm6ys_S5QN-14CRS8/edit?usp=sharing)
+
+
+
+
+## install
     git clone https://github.com/dscoool/python40.git
 
     
