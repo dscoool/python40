@@ -1,8 +1,9 @@
 # <파이썬과 40개의 작품들> 소스코드
 #### 교재: 장문철 저, "만들면서 배우는 파이썬과 40개의 작품들", 앤써북. (2022)
-#### 출처: answerbook.co.kr
-#### [Slide](https://docs.google.com/presentation/d/1TSORkj_W-_ZizkwT1ieE2d3co3_eYebPK1So6XcAFP4/edit?usp=sharing)
-## install
+
+#### [파이썬데이터분석실습](https://docs.google.com/presentation/d/1TSORkj_W-_ZizkwT1ieE2d3co3_eYebPK1So6XcAFP4/edit?usp=sharing)
+
+#### [파이썬의 기본 문법 익히기](https://docs.google.com/presentation/d/117t8JXWsIoRm4iqvj94O5B2R7YaGItfWA_n2S3YSF1M/edit?usp=sharing)## install
     git clone https://github.com/dscoool/python40.git
 
     
@@ -62,3 +63,5 @@ QR코드 생성기
     38. 음성인식 비서 만들기
     39. 삼성전자의 주식 예측하기
     40. 사진에서 사람을 인식하여 분류하기
+
+##### 출처: answerbook.co.kr
