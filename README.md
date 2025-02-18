@@ -54,7 +54,7 @@
 ### 2.ip_address
 컴퓨터의 외부 및 내부 IP 확인​
 
-### 3.tts
+### 3.TTS Text-to-Speech
 텍스트를 음성으로 변환
 
 ### 4.qrcode
